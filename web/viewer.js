@@ -49,7 +49,7 @@
           kind: OptionKind.VIEWER + OptionKind.PREFERENCE
         },
         defaultUrl: {
-          value: "https://eshan.biz/files/pancakes.pdf",
+          value: "https://github.com/BouncyBird/pancakes/raw/master/pancakes.pdf",
           kind: OptionKind.VIEWER
         },
         defaultZoomValue: {
